@@ -1,0 +1,21 @@
+File Manager Application
+1: Create file
+2: View all file 
+3: Delete file
+4: Read file
+5: Edit file
+6: Exit/Stop
+
+Choose your operation(1-6): 1
+Enter the filename to create: sample.txt
+File Name sample.txt: Created Successfully!
+
+Choose your operation(1-6): 5
+Enter the filename to edit: sample.txt
+Enter content to append: Hello, World!
+Content appended to file sample.txt successfully!
+
+Choose your operation(1-6): 4
+Enter the filename to read: sample.txt
+content of the file sample.txt:
+Hello, World!
